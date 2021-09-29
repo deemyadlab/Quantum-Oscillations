@@ -4,3 +4,5 @@ In fft_analysis.py the raw data was processed and Lomb-Scargel periodogram was p
 In fit.py the raw file was fitted with a polynomial to make it linear.
 in Fourier.py the Fourier Transform was performed
 Rate.py gives the magnetic field sweeping rate, minimum and maximum magnetic field.
+
+Mohammad Tomal Hossain and Tushar Bhowmick jointly wrote the code.
